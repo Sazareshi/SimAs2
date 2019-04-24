@@ -1,2 +1,2 @@
-# SimAs2
-Study OPEN GL
+# SimAs
+振れ止めシミュレータ学習用
